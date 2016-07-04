@@ -1,0 +1,3 @@
+name: Magikey - Controle de acesso por smartphone
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
